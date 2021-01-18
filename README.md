@@ -1,2 +1,1 @@
-Meu primeiro projeto no GIT
-alterar o que quiser
+Meu primeiro projeto no GIT (alterado e atualizado!)
