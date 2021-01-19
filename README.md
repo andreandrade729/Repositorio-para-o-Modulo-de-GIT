@@ -1,1 +1,1 @@
-Meu primeiro projeto no GIT (alterado e atualizado!)
+Meu primeiro projeto no GIT 
